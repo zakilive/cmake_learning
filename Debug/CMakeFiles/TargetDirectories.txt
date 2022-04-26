@@ -1,0 +1,3 @@
+/home/zakilive/Desktop/workspace/Debug/CMakeFiles/hello.dir
+/home/zakilive/Desktop/workspace/Debug/CMakeFiles/edit_cache.dir
+/home/zakilive/Desktop/workspace/Debug/CMakeFiles/rebuild_cache.dir
